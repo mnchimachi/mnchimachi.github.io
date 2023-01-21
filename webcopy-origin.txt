@@ -1,0 +1,652 @@
+Uri: https://texapi.net/wp-content/uploads/2021/10/PngItem_423826.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2021\10\PngItem_423826.png
+Content Type: image/png
+
+Uri: https://whatbot.net/dwl/WhatBotPlus.exe?id=22112022
+File Name: C:\Downloaded Web Sites\whatbot.net\dwl\WhatBotPlus.exe
+Content Type: application/x-msdownload
+
+Uri: https://whatbot.net/pt/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/baixar/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\baixar\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/category/tutorial-pt/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\category\tutorial-pt\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/category/tutorial-pt/feed/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\category\tutorial-pt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://whatbot.net/pt/comments/feed/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://whatbot.net/pt/como-ele-funciona/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\como-ele-funciona\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/como-ele-funciona/feed/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\como-ele-funciona\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://whatbot.net/pt/como-verificar-a-validade-dos-numeros-do-whatsapp/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\como-verificar-a-validade-dos-numeros-do-whatsapp\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/como-verificar-a-validade-dos-numeros-do-whatsapp/feed/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\como-verificar-a-validade-dos-numeros-do-whatsapp\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://whatbot.net/pt/compra-2/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\compra-2\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/contacte-nos/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\contacte-nos\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/enviar-mensagem-para-todos-os-contatos-do-whatsapp-sem-broadcast/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\enviar-mensagem-para-todos-os-contatos-do-whatsapp-sem-broadcast\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/enviar-mensagem-para-todos-os-contatos-do-whatsapp-sem-broadcast/feed/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\enviar-mensagem-para-todos-os-contatos-do-whatsapp-sem-broadcast\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://whatbot.net/pt/enviar-mensagem-para-todos-os-grupos-do-whatsapp-simultaneamente/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\enviar-mensagem-para-todos-os-grupos-do-whatsapp-simultaneamente\index.htm
+Content Type: text/html
+
+Uri: https://whatbot.net/pt/enviar-mensagem-para-todos-os-grupos-do-whatsapp-simultaneamente/feed/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\enviar-mensagem-para-todos-os-grupos-do-whatsapp-simultaneamente\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://whatbot.net/pt/feed/
+File Name: C:\Downloaded Web Sites\whatbot.net\pt\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://whatbot.net/wp-content/cache/autoptimize/css/autoptimize_1fa14e7c1140f31288e2994985add859.css
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\cache\autoptimize\css\autoptimize_1fa14e7c1140f31288e2994985add859.css
+Content Type: text/css
+
+Uri: https://whatbot.net/wp-content/cache/autoptimize/css/autoptimize_7272e907a763143e69c07db2bdb19a4b.css
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\cache\autoptimize\css\autoptimize_7272e907a763143e69c07db2bdb19a4b.css
+Content Type: text/css
+
+Uri: https://whatbot.net/wp-content/cache/autoptimize/js/autoptimize_59c22048137ed89f61106a457dbe22c3.js
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\cache\autoptimize\js\autoptimize_59c22048137ed89f61106a457dbe22c3.js
+Content Type: application/x-javascript
+
+Uri: https://whatbot.net/wp-content/cache/autoptimize/js/autoptimize_679a73971d35b1cee4721080b2d7efb8.js
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\cache\autoptimize\js\autoptimize_679a73971d35b1cee4721080b2d7efb8.js
+Content Type: application/x-javascript
+
+Uri: https://whatbot.net/wp-content/cache/autoptimize/js/autoptimize_bb4ef81c8fce64d21bed49859cbc1b7a.js
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\cache\autoptimize\js\autoptimize_bb4ef81c8fce64d21bed49859cbc1b7a.js
+Content Type: application/x-javascript
+
+Uri: https://whatbot.net/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=2.8.4
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\plugins\autoptimize\classes\external\js\lazysizes.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/1-1-300x252.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\1-1-300x252.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/1-1.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\1-1.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/580b57fcd9996e24bc43c4621.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\580b57fcd9996e24bc43c4621.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/com.mydreamsoft.whatsbot-150x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\com.mydreamsoft.whatsbot-150x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/com.mydreamsoft.whatsbot.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\com.mydreamsoft.whatsbot.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/contact-file-300x241.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\contact-file-300x241.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/contact-file.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\contact-file.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/contatti-300x270.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\contatti-300x270.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/contatti.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\contatti.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/download.gif
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\download.gif
+Content Type: image/gif
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/filter-1-1000x550.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\filter-1-1000x550.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/filter-1-1024x624.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\filter-1-1024x624.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/filter-1-300x183.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\filter-1-300x183.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/filter-1-768x468.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\filter-1-768x468.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/filter-1.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\filter-1.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/importa-300x160.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\importa-300x160.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/importa.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\importa.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/off-300x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\off-300x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/off.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\off.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/reply-300x173.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\reply-300x173.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/reply.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\reply.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/scheduled-300x213.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\scheduled-300x213.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/scheduled.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\scheduled.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/sending-289x300.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\sending-289x300.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/sending.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\sending.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-1-238x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-1-238x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-autoresponder-enabled-1024x576.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-autoresponder-enabled-1024x576.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-autoresponder-enabled-300x169.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-autoresponder-enabled-300x169.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-autoresponder-enabled-768x432.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-autoresponder-enabled-768x432.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-autoresponder-enabled.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-autoresponder-enabled.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-home-1024x577.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-home-1024x577.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-home-300x169.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-home-300x169.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-home-768x433.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-home-768x433.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-home.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-home.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-main-schreenshot-1-1000x550.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-main-schreenshot-1-1000x550.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-main-schreenshot-1-300x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-main-schreenshot-1-300x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-main-schreenshot-1024x574.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-main-schreenshot-1024x574.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-main-schreenshot-300x168.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-main-schreenshot-300x168.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-main-schreenshot-768x431.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-main-schreenshot-768x431.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-main-schreenshot.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-main-schreenshot.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-ready-1024x575.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-ready-1024x575.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-ready-300x168.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-ready-300x168.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-ready-768x431.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-ready-768x431.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-ready.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-ready.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-received-1000x550.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-received-1000x550.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-received-1024x574.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-received-1024x574.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-received-300x168.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-received-300x168.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-received-768x431.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-received-768x431.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-received.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-received.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-rules1-300x254.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-rules1-300x254.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-rules1.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-rules1.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-rules2-1024x579.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-rules2-1024x579.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-rules2-300x170.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-rules2-300x170.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-rules2-768x434.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-rules2-768x434.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-rules2.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-rules2.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-welcome-1-1000x550.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-welcome-1-1000x550.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-welcome-1024x573.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-welcome-1024x573.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-welcome-300x168.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-welcome-300x168.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-welcome-768x430.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-welcome-768x430.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot-welcome.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot-welcome.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot.gif
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot.gif
+Content Type: image/gif
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot1-1000x550.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot1-1000x550.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot1-1024x574.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot1-1024x574.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot1-300x168.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot1-300x168.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot1-768x431.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot1-768x431.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/06/whatbot1.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\06\whatbot1.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/07/logos_data11.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\07\logos_data11.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/07/logos_data21.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\07\logos_data21.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/11/contacts.jpg
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\11\contacts.jpg
+Content Type: image/jpeg
+
+Uri: https://whatbot.net/wp-content/uploads/2018/11/free-download.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\11\free-download.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2018/11/images-1.jpg
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\11\images-1.jpg
+Content Type: image/jpeg
+
+Uri: https://whatbot.net/wp-content/uploads/2018/11/whatsapp-image.jpg
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\11\whatsapp-image.jpg
+Content Type: image/jpeg
+
+Uri: https://whatbot.net/wp-content/uploads/2018/11/whatsender.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2018\11\whatsender.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2019/10/logo_whatbot.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2019\10\logo_whatbot.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/1-1024x581.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\1-1024x581.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/1-300x170.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\1-300x170.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/1-768x435.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\1-768x435.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/1.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\1.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/2-1024x576.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\2-1024x576.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/2-300x169.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\2-300x169.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/2-768x432.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\2-768x432.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/2.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\2.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/3-1024x577.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\3-1024x577.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/3-300x169.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\3-300x169.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/3-768x433.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\3-768x433.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/3.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\3.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/check-whatsapp-numbers-300x265.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\check-whatsapp-numbers-300x265.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/check-whatsapp-numbers.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\check-whatsapp-numbers.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/filter-300x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\filter-300x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/filter-300x264.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\filter-300x264.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/filter-768x677.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\filter-768x677.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/filter.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\filter.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/number-filter-whatsapp-1024x297.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\number-filter-whatsapp-1024x297.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/number-filter-whatsapp-300x87.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\number-filter-whatsapp-300x87.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/number-filter-whatsapp-768x223.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\number-filter-whatsapp-768x223.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/number-filter-whatsapp.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\number-filter-whatsapp.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/send-300x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\send-300x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/send-300x199.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\send-300x199.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/send-768x510.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\send-768x510.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2020/06/send.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2020\06\send.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2022/03/no-150x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2022\03\no-150x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2022/03/no-300x300.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2022\03\no-300x300.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2022/03/no-768x768.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2022\03\no-768x768.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2022/03/no.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2022\03\no.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2022/03/ok-150x150.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2022\03\ok-150x150.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2022/03/ok-300x300.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2022\03\ok-300x300.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-content/uploads/2022/03/ok.png
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-content\uploads\2022\03\ok.png
+Content Type: image/png
+
+Uri: https://whatbot.net/wp-includes/js/dist/vendor/wp-polyfill.min.js
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatbot.net/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://whatbot.net/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://whatbot.net/wp-json/
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fbaixar%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fbaixar%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcomo-ele-funciona%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcomo-ele-funciona%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcomo-verificar-a-validade-dos-numeros-do-whatsapp%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcomo-verificar-a-validade-dos-numeros-do-whatsapp%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcompra-2%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcompra-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcontacte-nos%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fcontacte-nos%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fenviar-mensagem-para-todos-os-contatos-do-whatsapp-sem-broadcast%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fenviar-mensagem-para-todos-os-contatos-do-whatsapp-sem-broadcast%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fenviar-mensagem-para-todos-os-grupos-do-whatsapp-simultaneamente%2F
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fwhatbot.net%2Fpt%2Fenviar-mensagem-para-todos-os-grupos-do-whatsapp-simultaneamente%2F&format=xml
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://whatbot.net/wp-json/wp/v2/categories/90
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\categories\90
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/pages/1764
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\pages\1764
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/pages/1765
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\pages\1765
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/pages/1766
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\pages\1766
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/pages/1767
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\pages\1767
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/posts/1769
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\posts\1769
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/posts/2235
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\posts\2235
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/posts/2243
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\posts\2243
+Content Type: application/json
+
+Uri: https://whatbot.net/wp-json/wp/v2/posts/2249
+File Name: C:\Downloaded Web Sites\whatbot.net\wp-json\wp\v2\posts\2249
+Content Type: application/json
+
+Uri: https://whatbot.net/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\whatbot.net\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-149570162-1
+File Name: C:\Downloaded Web Sites\whatbot.net\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.livehelpnow.net/lhn/widgets/chatbutton/lhnchatbutton-current.min.js
+File Name: C:\Downloaded Web Sites\whatbot.net\lhn\widgets\chatbutton\lhnchatbutton-current.min.js
+Content Type: application/javascript
+
